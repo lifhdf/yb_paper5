@@ -1,0 +1,38 @@
+{
+  "project_name": "yb_paper5（仓库标识；正式项目名称【待确认】）",
+  "project_id": null,
+  "repository": "lifhdf/yb_paper5",
+  "branch": "main",
+  "project_status": "awaiting_project_evidence",
+  "current_phase": "记忆系统初始化完成；技术项目阶段【待确认】",
+  "main_goal": "【待确认】",
+  "current_mainline": "【待确认】；不得自动推定或更改技术主线",
+  "current_task": "TASK-001：核实项目技术目标、MAINLINE、既有成果及版本",
+  "current_version": "【待确认】",
+  "baseline": "【待确认】",
+  "last_completed_task": "TASK-000：建立四文件 GitHub 项目记忆",
+  "next_action": "获取已有项目资料并确认项目目标、主线、baseline 和阶段",
+  "blocked_by": [
+    "没有 README、源码、论文、实验记录等可核实的技术资料",
+    "项目与 lifhdf/sstfnet 的关系尚未确认"
+  ],
+  "active_hypotheses": [],
+  "critical_constraints": [
+    "GitHub 已确认提交是跨会话事实源；冲突先核验",
+    "重大技术路线变更必须获得用户明确确认",
+    "事实、实验结论与【待验证】假设严格区分",
+    "已确认历史决策不得静默覆盖",
+    "SIDE QUEST 不得替代 MAINLINE"
+  ],
+  "important_paths": {
+    "project_memory": "PROJECT_MEMORY.md",
+    "project_state": "PROJECT_STATE.json",
+    "decisions": "DECISIONS.md",
+    "task_log": "TASK_LOG.md",
+    "source_code": "【待确认】",
+    "experiments": "【待确认】"
+  },
+  "last_verified_commit": "de44f8124444a6c41410b86d7057d10907742133",
+  "last_updated": "2026-10-09",
+  "verification_note": "last_verified_commit 记录本状态文件创建前实际核验的最新 commit；不可当作技术代码版本或本文件自身提交 SHA。"
+}
